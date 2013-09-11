@@ -1,0 +1,8 @@
+cron:
+- description: Import RSS feeds.
+  url: /feeds?action=import
+  schedule: every 10 hours
+
+- description: Index RSS feeds.
+  url: /index
+  schedule: every 11 hours

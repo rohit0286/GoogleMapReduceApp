@@ -1,0 +1,9 @@
+{"rss-sources": [{
+  "name": "IGN",
+  "url": "http://feeds.ign.com/ign/all?format=xml"
+  },
+  {
+  "name": "PC GAMER",
+  "url": "http://www.pcgamer.com/feed/"
+  }
+]}
